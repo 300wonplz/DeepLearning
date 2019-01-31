@@ -1,6 +1,0 @@
-model_checkpoint_path: "mdc_session-1000"
-all_model_checkpoint_paths: "mdc_session-600"
-all_model_checkpoint_paths: "mdc_session-700"
-all_model_checkpoint_paths: "mdc_session-800"
-all_model_checkpoint_paths: "mdc_session-900"
-all_model_checkpoint_paths: "mdc_session-1000"
